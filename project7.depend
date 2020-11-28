@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542086733 source:c:\users\hp\desktop\advancedc project\project7\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
